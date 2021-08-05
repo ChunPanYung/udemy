@@ -1,3 +1,3 @@
-# udemy
+# Udemy Assignment
 
-Contains all assignments I've done while doing Udemy Courses.
+This repository contains assignment that I have done while learning from udemy
